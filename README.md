@@ -6,7 +6,7 @@ Repositório com minhas resoluções dos exercícios do curso de Python do Curso
 
 Os exercícios estão separados por mundo:
 
-- [Mundo 1](./mundo-1/)
+- [Mundo 1](.Questões/mundo-1/)
 - [Mundo 2](./mundo-2/)
 - [Mundo 3](./mundo-3/)
 
