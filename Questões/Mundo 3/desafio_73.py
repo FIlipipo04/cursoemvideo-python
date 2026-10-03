@@ -1,0 +1,12 @@
+tupla = ('Flamengo', 'Palmeiras', 'Athletico-PR', 'Fluminense', 'Bahia', 'Cruzeiro', 'Atlético-MG', 'Santos', 'Coritiba', 'Red Bull Bragantino', 'São Paulo', 'Botafogo', 'Vitória', 'Corinthians', 'Mirassol', 'Vasco da Gama', 'Grêmio', 'Internacional','Remo', 'Chapecoense')
+print('=-'*20)
+print(f'Lista dos times do Brasileirão: {tupla}')
+print('=-'*20)
+print(f'Os cinco primeiros são: {tupla[0:5]}')
+print('=-'*20)
+print(f'Os ultimos 4 são: {tupla[-4:]}')
+print('=-'*20)
+print(f'Os times em ordem alfabeticação: {sorted(tupla)}')
+print('=-'*20)
+posicao = (tupla.index('Chapecoense')) + 1
+print(f'O Chapecoense está na {posicao} posição')
