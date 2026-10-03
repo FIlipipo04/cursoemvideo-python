@@ -1,20 +1,13 @@
+# Python - Curso em Vídeo
 
-# 🐍 Python - Curso em Vídeo
+Repositório com minhas resoluções dos exercícios do curso de Python do Curso em Vídeo, do Gustavo Guanabara.
 
-Repositório com minhas resoluções dos exercícios do curso de Python do
-[Curso em Vídeo](https://www.cursoemvideo.com/), do Gustavo Guanabara.
+## Organização
 
-## 📚 Organização
+Os exercícios estão separados por mundo:
 
-Os exercícios estão organizados de acordo com os mundos do curso:
+- [Mundo 1](./mundo-1/)
+- [Mundo 2](./mundo-2/)
+- [Mundo 3](./mundo-3/)
 
-- [Mundo 1](./mundo-1/) ✅
-- [Mundo 2](./mundo-2/) ✅
-- [Mundo 3](./mundo-3/) 🚧
-
-Atualmente estou no Mundo 3.
-
-## 💻 Sobre
-
-Exercícios feitos durante meus estudos de Python, com o objetivo de registrar
-meu aprendizado e manter minhas resoluções organizadas.
+Já terminei os Mundos 1 e 2 e estou fazendo o Mundo 3 atualmente.
