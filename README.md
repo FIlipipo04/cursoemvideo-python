@@ -1,6 +1,6 @@
 # Python - Curso em Vídeo
 
-Repositório com minhas resoluções dos exercícios do curso de Python do Curso em Vídeo, do Gustavo Guanabara.
+Repositório com minhas resoluções dos exercícios de Python do Curso em Vídeo, do Gustavo Guanabara.
 
 ## Organização
 
