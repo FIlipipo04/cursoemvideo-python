@@ -4,4 +4,4 @@
 # Crie um programa que escreva "Olá, Mundo!" na tela.
 # === FIM DO ENUNCIADO ===
 
-# TODO: resolver aqui
+print('Olá, Mundo!')

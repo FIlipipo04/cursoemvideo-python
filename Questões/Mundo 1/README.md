@@ -7,7 +7,7 @@ Clica no número pra abrir o arquivo. O enunciado também fica no topo de cada `
 
 ## Primeiros comandos
 
-- [ ] **[001 — Olá, Mundo!](./desafio_01.py)**  
+- [x] **[001 — Olá, Mundo!](./desafio_01.py)**  
   Crie um programa que escreva "Olá, Mundo!" na tela.
 - [x] **[002 — Respondendo ao usuário](./desafio_02.py)**  
   Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
