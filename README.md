@@ -1,20 +1,14 @@
 # Python — Curso em Vídeo
 
-Repositório com minhas resoluções dos exercícios de Python do Curso em Vídeo, do Gustavo Guanabara.
+Meus exercícios do curso de Python do Gustavo Guanabara (Curso em Vídeo).
+Vou resolvendo conforme avanço nos vídeos.
 
-## Organização
+Cada mundo tem a lista das questões separadas por assunto. O enunciado também
+está no comecinho de cada arquivo `.py`, então dá pra abrir a questão e já saber
+o que fazer.
 
-Os exercícios estão separados por mundo. Cada mundo tem um índice próprio com os
-enunciados agrupados por tipo de conteúdo, e cada arquivo de resolução já traz o
-enunciado completo como comentário no topo.
+- [Mundo 1 — Fundamentos](./Questões/Mundo%201/README.md) · questões 1 a 35
+- [Mundo 2 — Estruturas de Controle](./Questões/Mundo%202/README.md) · questões 36 a 71
+- [Mundo 3 — Estruturas Compostas](./Questões/Mundo%203/README.md) · questões 72 a 115
 
-- [Mundo 1 — Fundamentos](./Questões/Mundo%201/README.md) · desafios 001–035
-- [Mundo 2 — Estruturas de Controle](./Questões/Mundo%202/README.md) · desafios 036–071
-- [Mundo 3 — Estruturas Compostas](./Questões/Mundo%203/README.md) · desafios 072–115
-
-Nos índices: ✅ = já tem resolução · ⬜ = ainda não feito.
-
-Já terminei os Mundos 1 e 2 e estou fazendo o Mundo 3 atualmente.
-
-> Os enunciados seguem a lista oficial do curso de Python 3 do Curso em Vídeo
-> (Mundos 1 a 3). O conteúdo de POO é tratado à parte, sem desafios numerados.
+Nas listas, `[x]` é o que já resolvi e `[ ]` é o que ainda falta.
