@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 052 — Números primos
+#
+# Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+# === FIM DO ENUNCIADO ===
+
 x = int(input('Digite um numero: '))
 contador = 0
 for c in range(1,x+1):

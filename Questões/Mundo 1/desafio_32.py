@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 032 — Ano bissexto
+#
+# Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO.
+# === FIM DO ENUNCIADO ===
+
 '''
 Escreva um algoritimo que leia um ano qualquer e diga se ele é bissexto
 '''

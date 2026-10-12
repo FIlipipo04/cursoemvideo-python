@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 053 — Detector de palíndromo
+#
+# Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo,
+# desconsiderando os espaços.
+# === FIM DO ENUNCIADO ===
+
 a = str(input('Digite uma frase: '))
 x = a.replace(" ", "")
 x = x.lower()

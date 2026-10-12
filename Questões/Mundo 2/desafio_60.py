@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 060 — Cálculo do fatorial
+#
+# Faça um programa que leia um número qualquer e mostre o seu fatorial. Exemplo: 5! = 5 × 4
+# × 3 × 2 × 1 = 120.
+# === FIM DO ENUNCIADO ===
+
 '''entrada = int(input())
 fatorial = 1
 for c in range(1, entrada + 1):

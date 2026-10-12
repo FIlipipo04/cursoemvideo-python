@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 017 — Catetos e hipotenusa
+#
+# Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um
+# triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
+# === FIM DO ENUNCIADO ===
+
 '''Fazer programa qaue lêm o cateto oposto e adjacente e calcule a hipotenusa'''
 
 '''import math

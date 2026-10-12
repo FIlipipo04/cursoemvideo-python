@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 037 — Conversor de bases numéricas
+#
+# Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher a
+# base de conversão: 1 para binário, 2 para octal, 3 para hexadecimal.
+# === FIM DO ENUNCIADO ===
+
 '''escreva um programa que leia um numero e peça para o usuario usuario qual 
 sera a base de conversão:
 1 para binario 

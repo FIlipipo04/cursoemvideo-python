@@ -1,3 +1,12 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 036 — Aprovando empréstimo
+#
+# Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte
+# o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor
+# da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo
+# será negado.
+# === FIM DO ENUNCIADO ===
+
 '''escreva um programa para aprovar o emprestimo bancario para
 a compra de uma casa. O programa vai perguntar o valor da casa, o 
 salario do comprador e em quantos anos ele vai pagar 

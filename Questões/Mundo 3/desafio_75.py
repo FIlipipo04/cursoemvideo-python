@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 075 — Análise de dados em uma tupla
+#
+# Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No
+# final, mostre: a) quantas vezes apareceu o valor 9; b) em que posição foi digitado o
+# primeiro valor 3; c) quais foram os números pares.
+# === FIM DO ENUNCIADO ===
+
 tupla = ()
 cont = 0
 pos = 0

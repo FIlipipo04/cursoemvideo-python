@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 026 — Primeira e última ocorrência de uma string
+#
+# Faça um programa que leia uma frase qualquer e mostre: quantas vezes aparece a letra "A",
+# em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+# === FIM DO ENUNCIADO ===
+
 '''Faça um programa qur leia uma frase pelo teclado e mostre:
 Quantas vezes aparece a letra "A"
 Em que possição ela aparece a primeira vez

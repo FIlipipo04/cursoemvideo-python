@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 045 — GAME: Pedra, Papel e Tesoura
+#
+# Crie um programa que faça o computador jogar Jokenpô (Pedra, Papel e Tesoura) com você.
+# === FIM DO ENUNCIADO ===
+
 '''
 crie um programa que faça o computador 
 jogar jokenpo com você

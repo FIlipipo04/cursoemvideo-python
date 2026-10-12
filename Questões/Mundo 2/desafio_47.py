@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 047 — Contagem de pares
+#
+# Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1
+# e 50.
+# === FIM DO ENUNCIADO ===
+
 '''Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.'''
 for c in range(2, 50, 2):
     print(f'{c}', end=' ')

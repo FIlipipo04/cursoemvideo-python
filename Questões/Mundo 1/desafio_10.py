@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 010 — Conversor de moedas
+#
+# Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos
+# dólares ela pode comprar.
+# === FIM DO ENUNCIADO ===
+
 '''fazer um programa que converte valor em real para dolar.'''
 
 #cotação dolar dia 29/11/2025 ta $5,32

@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 021 — Tocando um MP3
+#
+# Faça um programa que abra e reproduza o áudio de um arquivo MP3.
+# === FIM DO ENUNCIADO ===
+
 import pygame
 
 pygame.init()

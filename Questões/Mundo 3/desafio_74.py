@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 074 — Maior e menor valores em tupla
+#
+# Crie um programa que gere cinco números aleatórios e os coloque em uma tupla. Depois
+# mostre a listagem de números gerados e também indique o menor e o maior valor que estão na
+# tupla.
+# === FIM DO ENUNCIADO ===
+
 import random
 
 tupla = random.choices(range(0, 11), k = 5)

@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 030 — Par ou ímpar?
+#
+# Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+# === FIM DO ENUNCIADO ===
+
 '''programa para ver se é par ou impar'''
 
 num = int(input('Digite um numero:'))

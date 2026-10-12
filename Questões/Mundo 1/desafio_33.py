@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 033 — Maior e menor valores
+#
+# Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+# === FIM DO ENUNCIADO ===
+
 '''
 Faça um programa que leia três números e diga qual é o maior e qual o menor
 '''

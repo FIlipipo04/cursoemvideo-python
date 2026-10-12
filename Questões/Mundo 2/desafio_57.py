@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 057 — Validação de dados
+#
+# Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores "M" ou "F". Caso
+# esteja errado, peça a digitação novamente até ter um valor correto.
+# === FIM DO ENUNCIADO ===
+
 '''Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores "M" ou "F". Caso esteja errado, peça a digitação novamente até ter um valor correto'''
 sexo = ''
 condicao = 'S'

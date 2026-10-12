@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 034 — Aumentos múltiplos
+#
+# Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu
+# aumento. Para salários superiores a R$1.250,00, calcule um aumento de 10%. Para os
+# inferiores ou iguais, o aumento é de 15%.
+# === FIM DO ENUNCIADO ===
+
 '''escreva um algoritmo que pergunte o salário de um funcionario e calcule o valor do seu aumento. 
 Para seu salaririos superiores a 1250 calcule um aumento de 10%
 para salarios menores ou iguais calcule 15%

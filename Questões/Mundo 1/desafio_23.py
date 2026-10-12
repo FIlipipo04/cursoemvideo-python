@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 023 — Separando dígitos de um número
+#
+# Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos
+# separados (unidade, dezena, centena e milhar).
+# === FIM DO ENUNCIADO ===
+
 '''Faça um programa que leia um numero de 0 a 9999 e mostre na tela cada um dos digitos separados
 ex: 
 digito 8963

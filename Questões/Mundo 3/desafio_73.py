@@ -1,3 +1,12 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 073 — Tuplas com times de futebol
+#
+# Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro
+# de Futebol, na ordem de colocação. Depois mostre: a) os 5 primeiros colocados; b) os
+# últimos 4 colocados; c) uma lista com os times em ordem alfabética; d) em que posição está
+# o time da Chapecoense.
+# === FIM DO ENUNCIADO ===
+
 tupla = ('Flamengo', 'Palmeiras', 'Athletico-PR', 'Fluminense', 'Bahia', 'Cruzeiro', 'Atlético-MG', 'Santos', 'Coritiba', 'Red Bull Bragantino', 'São Paulo', 'Botafogo', 'Vitória', 'Corinthians', 'Mirassol', 'Vasco da Gama', 'Grêmio', 'Internacional','Remo', 'Chapecoense')
 print('=-'*20)
 print(f'Lista dos times do Brasileirão: {tupla}')

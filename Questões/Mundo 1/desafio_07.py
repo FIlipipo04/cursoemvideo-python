@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 007 — Média aritmética
+#
+# Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+# === FIM DO ENUNCIADO ===
+
 '''programa pra mostra media de duas notas de aluno'''
 
 N1 = float(input('Qual é a sua primeira nota?'))

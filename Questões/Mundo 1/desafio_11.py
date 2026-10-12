@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 011 — Pintando parede
+#
+# Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área
+# e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta
+# uma área de 2m².
+# === FIM DO ENUNCIADO ===
+
 '''
 fazer programa que calcule a area de uma parede. saiba que vamso pintar a parede
 , cada 2m² da pared eprecisam de 1litro]

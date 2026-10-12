@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 035 — Analisando triângulo v1.0
+#
+# Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas
+# podem ou não formar um triângulo.
+# === FIM DO ENUNCIADO ===
+
 '''leia tres retas e verifiqur se elas formam um triangulo'''
 
 r1 = float(input('Diga o valor de uma reta: '))

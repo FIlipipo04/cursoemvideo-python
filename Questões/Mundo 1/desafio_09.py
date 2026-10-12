@@ -1,3 +1,9 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 009 — Tabuada
+#
+# Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+# === FIM DO ENUNCIADO ===
+
 '''
 programa para mostrar a tabuada de qualquer numero.
 

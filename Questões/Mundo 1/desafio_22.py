@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 022 — Analisador de textos
+#
+# Crie um programa que leia o nome completo de uma pessoa e mostre: o nome com todas as
+# letras maiúsculas, com todas minúsculas, quantas letras ao todo (sem espaço) e quantas
+# letras tem o primeiro nome.
+# === FIM DO ENUNCIADO ===
+
 '''
 crie um program que leia o nome completo de uma pessoa e mostre :
 o nome com todas as letras maisculas

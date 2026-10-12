@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 029 — Radar eletrônico
+#
+# Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre
+# uma mensagem dizendo que ele foi multado. A multa custa R$7,00 por cada Km acima do
+# limite.
+# === FIM DO ENUNCIADO ===
+
 '''
 Escreva um programa que leia a velocidade de um carro. 
 se ele ultrapassar 80km/h, mostre que ele esta acima da velocidade permitida e pagara uma multa.

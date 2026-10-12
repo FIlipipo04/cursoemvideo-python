@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 004 — Dissecando uma variável
+#
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas
+# as informações possíveis sobre ele.
+# === FIM DO ENUNCIADO ===
+
 '''fazer programa que leia pelo teclado e mostre na tela o seu tipo primitivo e todas as informaçoes possiveis sobre ele'''
 
 print('Olá! Vamos fazer um teste? Escreva qualquer coisa, seja letras, numeros ou apenas simbolos e este programa classificará.')

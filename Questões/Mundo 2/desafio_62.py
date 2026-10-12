@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 062 — Super Progressão Aritmética v3.0
+#
+# Melhore o DESAFIO 61, perguntando ao usuário se ele quer mostrar mais alguns termos. O
+# programa encerra quando ele disser que quer mostrar 0 termos.
+# === FIM DO ENUNCIADO ===
+
 termo = int(input('Qual o primeiro termo da dua PA? '))
 razao = int(input('E qual a razão da sua PA: '))
 contador = 0

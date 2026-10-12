@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 054 — Grupo da maioridade
+#
+# Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas
+# pessoas ainda não atingiram a maioridade e quantas já são maiores.
+# === FIM DO ENUNCIADO ===
+
 from datetime import datetime
 a = datetime.now().year
 im = 0

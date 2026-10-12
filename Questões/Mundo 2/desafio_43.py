@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 043 — Índice de Massa Corporal
+#
+# Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule o seu IMC e mostre
+# o seu status: abaixo de 18,5 → abaixo do peso; entre 18,5 e 25 → peso ideal; 25 a 30 →
+# sobrepeso; 30 a 40 → obesidade; acima de 40 → obesidade mórbida.
+# === FIM DO ENUNCIADO ===
+
 '''
 Desenvolva um programa que leia o peso e a altura de uma pessoa e determine o seu imc. 
 depois verifique em qual faixa ela se encontra

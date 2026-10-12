@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 008 — Conversor de medidas
+#
+# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e
+# milímetros.
+# === FIM DO ENUNCIADO ===
+
 '''programa pra trasformar medidas em metros para várias unidades'''
 
 print('Está com dificuldades em fazer a conversão de medidas em metros? Este programa é para te ajudar!!', end=' ')

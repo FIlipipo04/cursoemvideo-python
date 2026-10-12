@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 056 — Analisador completo
+#
+# Desenvolva um programa que leia o nome, a idade e o sexo de 4 pessoas. No final, mostre a
+# média de idade do grupo, o nome do homem mais velho e quantas mulheres têm menos de 20
+# anos.
+# === FIM DO ENUNCIADO ===
+
 soma = 0
 maioridadehomem = 0
 nomevelho = ''

@@ -1,3 +1,11 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 058 — Jogo da adivinhação v2.0
+#
+# Melhore o jogo do DESAFIO 28, onde o computador vai "pensar" em um número entre 0 e 10.
+# Agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites
+# foram necessários para vencer.
+# === FIM DO ENUNCIADO ===
+
 '''Melhore o programa 28. Só que agora o jogador vai tentar adivinhar ate acerta, mostrando no final o numero de tentativas.'''
 
 import random

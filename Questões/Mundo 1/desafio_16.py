@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 016 — Quebrando um número
+#
+# Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua
+# porção inteira.
+# === FIM DO ENUNCIADO ===
+
 '''from math import trunc #importei apenas a funcao trunc que era a que me interessava
 
 x=float(input("Digite um número: "))

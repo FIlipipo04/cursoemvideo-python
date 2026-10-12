@@ -1,3 +1,10 @@
+# === ENUNCIADO (Curso em Vídeo) ===
+# Desafio 019 — Sorteando um item na lista
+#
+# Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa
+# que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+# === FIM DO ENUNCIADO ===
+
 '''Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome'''
 import random
 a1 = input('Digite o nome do primeiro aluno: ')
